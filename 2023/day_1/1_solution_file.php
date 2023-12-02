@@ -1,5 +1,5 @@
 <?php
-$fp = fopen("H:/AdventOfCode/day_1/1_sourcefile.txt", "r");
+$fp = fopen("H:/AdventOfCode/2023/day_1/1_sourcefile.txt", "r");
 $count = 0;
 $total = 0;
 if ($fp) {
